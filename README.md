@@ -1,5 +1,6 @@
 
-### Olá! Eu sou o João Antonio 
+### Olá! Eu sou João Antonio,
+### Estudante de Engenharia Mecatrônica 
 
 
 ![João Antonio](https://github-readme-stats.vercel.app/api?username=Gigomeni0&show_icons=true&theme=tokyonight)

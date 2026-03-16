@@ -11,9 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"  height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"  height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="30" width="40"/>
-                       
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="30" width="40"/>                    
 
 </div>
 <div>

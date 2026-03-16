@@ -3,7 +3,7 @@
 ### Estudante de Engenharia Mecatrônica 
 
 
-![João Antonio](https://github-readme-stats.vercel.app/api?username=Gigomeni0&show_icons=true&theme=tokyonight)
+![João Antonio](https://github-readme-stats.vercel.app/api?username=joao_goncalves_eng&show_icons=true&theme=tokyonight)
 
 
 <div style="display: inline_block"><br>
